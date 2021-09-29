@@ -1,1 +1,1 @@
-Design Pattern türlerinden Observer, Proxy ve Prototype patternlerini ufak kod parçası örnekleriyle açıklamak hedeflenmiştir.
+Design Pattern türlerinden Observer, Template Method, Proxy ve Prototype patternlerini ufak kod parçası örnekleriyle açıklamak hedeflenmiştir.
